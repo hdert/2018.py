@@ -1,0 +1,8 @@
+-------- Program Started, You Don't Deserve The Date And Time -------- 
+
+You Don't Deserve The Date And Time: Fancy Message Inserted 
+
+HAHA I'm Writing In A Text Document With Python
+
+--------- Program Had to Go Away, You Don't Deserve The Date And Time --------- 
+
