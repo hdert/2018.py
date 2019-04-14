@@ -60,3 +60,5 @@ em.focus()
 em.bind("<Return>", update)
 
 btn2.grid(row = 4, column = 1, sticky = N+S+E+W)
+
+root.mainloop()

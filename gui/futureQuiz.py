@@ -46,3 +46,6 @@ text.grid()
 en.grid()
 msgBox.grid()
 btn.grid()
+
+
+root.mainloop()

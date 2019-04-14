@@ -34,3 +34,5 @@ your_name.pack()
 but = Button(root, text = "Verify That You Have Read The T's & C's"
              , command = change())
 but.pack()
+
+root.mainloop()

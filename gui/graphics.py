@@ -21,4 +21,6 @@ fontstyle = ("ariel", 15)
 #--Main-Code--
 
 label1 = Label(root, bg = "grey", fg = "black", padx = 30, pady = 10, text = "Show me", font = fontstyle)
-label1.pack
+label1.pack()
+
+root.mainloop()
