@@ -2,7 +2,9 @@
 Author: Justin
 Date: 26/09/2018
 '''
-from stars import star
-
-star(500)
+from stars import hackerMan
+while(True):
+    
+    num = (int(input('Put in a number: ')))
+    hackerMan(num)
 
