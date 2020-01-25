@@ -1,5 +1,5 @@
 '''
-Author: Justin
+Author: hdert
 Date Started: 31/07/2018
 Date Now: 31/07/2018
 '''
@@ -23,7 +23,7 @@ students = ['Sione',
             'Jasprit',
             'Bailey',
             'Lucas',
-            'Justin',
+            'hdert',
             'Brodie']
 
 # -- Variables --

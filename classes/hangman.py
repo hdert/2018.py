@@ -1,5 +1,5 @@
 '''
-Author: Justin
+Author: hdert
 Version: Dev V.0.1
 Program-Goal: Hangman
 Date: 13/4/2018

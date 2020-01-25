@@ -1,5 +1,5 @@
 '''
-Author: Justin Muirhead
+Author: hdert
 Date: 10/4/2018
 Ver: Beta/Dev Phase: V.0.5
 Program Aim: Drawing in Python

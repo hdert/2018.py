@@ -1,5 +1,5 @@
 '''
-Author: Jordan, Justin
+Author: Jordan, hdert
 Date: 26/06/2018
 Version: V 0.1.1.4.2 Dev
 '''
@@ -11,16 +11,16 @@ def terminate_user(name):
 
 #--Variables--
 
-Justin = "Error"
-programmer = "Justin"
+hdert = "Error"
+programmer = "hdert"
 
 #--Main-Code--
 
-if(Justin == "Error"):
-    Justin = terminate_user("Justin")
+if(hdert == "Error"):
+    hdert = terminate_user("hdert")
     print("User Terminated")
 
-if(programmer == "Justin"):
+if(programmer == "hdert"):
     program = "sucks"
 
-print("{} your program {}".format(Justin, program))
+print("{} your program {}".format(hdert, program))

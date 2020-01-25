@@ -1,5 +1,5 @@
 '''
-Author: Justin
+Author: hdert
 Date: 13/4/2018
 Program: calling a method
 '''

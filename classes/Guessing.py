@@ -1,7 +1,7 @@
 '''
 Name: Guessing
 Date: 11/4/2018
-Author: Justin
+Author: hdert
 Version: Dev Build/V.0.1 "Aligator"
 '''
 #--Librarys--

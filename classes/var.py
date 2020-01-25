@@ -1,4 +1,4 @@
-name = 'Justin Muirhead'
+name = 'hdert'
 age = 13
 loop = ('FALSE')
 
@@ -7,7 +7,7 @@ while loop == 'FALSE':
     print(age)
     print('years old')
     print()
-    name = 'Justin'
+    name = 'hdert'
     age = 14
     print('now ' + name + '\nis')
     print(age)

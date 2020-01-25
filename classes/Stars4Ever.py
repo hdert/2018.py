@@ -1,5 +1,5 @@
 '''
-Author: Justin
+Author: hdert
 Date: 26/09/2018
 '''
 from stars import hackerMan

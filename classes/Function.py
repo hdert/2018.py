@@ -1,6 +1,6 @@
 '''
 
-Author: Justin Muirhead
+Author: hdert
 Version: Dev V.1.0
 Date: 16,5,2018
 
